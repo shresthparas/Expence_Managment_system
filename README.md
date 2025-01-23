@@ -1,2 +1,2 @@
-#Expense-app-mern
+#Expense-APP using MERN
 
