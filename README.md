@@ -1,7 +1,7 @@
-#Expense-APP using MERN
+##Expense-APP using MERN
 ## Step to run Application : 
-   ## npm install
-   ## num run dev
+   ##  1.npm install
+   ## 2.num run dev
 
 
 
